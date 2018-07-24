@@ -4,3 +4,4 @@ name: Wepa la Pepa Campestre (name)($$$)
 description: Página en Jekyll para pepa ($$$)
 paginate: 10
 baseurl: ''
+plugins: [jekyll-paginate]
