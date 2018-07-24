@@ -5,3 +5,4 @@ description: Página en Jekyll para pepa ($$$)
 paginate: 10
 baseurl: ''
 plugins: [jekyll-paginate]
+include: [_redirects]
