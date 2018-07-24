@@ -1,3 +1,2 @@
 # Redirect default Netlify subdomain to primary domain
 http://wepalapepacampestre.netlify.com/* http://www.wepalapepacampestre.com/:splat 301!
-http://wepalapepacampestre.github.io/* http://www.wepalapepacampestre.com/:splat 301!
