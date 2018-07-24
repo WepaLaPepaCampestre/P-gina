@@ -1,7 +1,8 @@
 url: https://wepalapepacampestre.com
 enforce_ssl: wepalapepacampestre.com
-name: Wepa la Pepa Campestre 
-description: Hotel y restaurante. Tabio, Cundinamarca. Un espacio aparte. Dormir, comer, descansar. ¿Qué buscas?
+name: Wepa la Pepa Campestre (name)($$$)
+description: Página en Jekyll para pepa ($$$)
+paginate: 10
 baseurl: ''
 plugins: [jekyll-paginate]
 include: [_redirects]
